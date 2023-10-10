@@ -1,4 +1,8 @@
-### Hi there 👋
+### hello 👋
+
+- 🌱 I'm currently learning HTML/CSS/JS
+- 🌟 I love to solve problems, automate workflows and create aesthetic designs
+- 💬 Reach me via [my portfolio](https://simranamin.com/)
 
 <!--
 **noepse/noepse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
