@@ -1,7 +1,7 @@
 ### hello 👋
 
 - 🌱 I'm currently learning HTML/CSS/JS
-- 🌟 I love to solve problems, automate workflows and create aesthetic designs
+- 🌟 I love to solve problems, simplify workflows and create aesthetic designs
 - 💬 Reach me via [my portfolio](https://simranamin.com/)
 
 <!--
