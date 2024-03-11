@@ -1,6 +1,6 @@
 ### hello 👋
 
-- 🌱 Junior Software Developer and art enthusiast
+- 🌱 Junior Software Developer | Art Enthusiast | Currently learning HTML/CSS/JS and React
 - 🌟 I love to solve problems, simplify workflows and create aesthetic designs
 - 💬 Reach me via [my portfolio](https://simranamin.com/) or [LinkedIn](https://www.linkedin.com/in/simran-amin/)
 
