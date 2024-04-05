@@ -1,6 +1,6 @@
 ### hello 👋
 
-- 🌱 Junior Software Developer | Currently learning HTML/CSS/JS and React
+- 🌱 Junior Software Developer | HTML/CSS/JS and React | Learning C# 
 - 🌟 I love to solve problems, improve workflows and create aesthetic designs
 - 💬 Reach me via [my portfolio](https://simranamin.com/) or [LinkedIn](https://www.linkedin.com/in/simran-amin/)
 
