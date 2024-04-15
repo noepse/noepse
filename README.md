@@ -4,6 +4,8 @@
 - 🌟 I love to solve problems, improve workflows and create aesthetic designs
 - 💬 Reach me via [my portfolio](https://simranamin.com/) or [LinkedIn](https://www.linkedin.com/in/simran-amin/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noepse&layout=compact)
+
 <!--
 **noepse/noepse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
