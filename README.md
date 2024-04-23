@@ -1,4 +1,4 @@
-## Hello 👋  
+## Hello, I'm Simmi 👋
   
 
 <a href="https://github.com/noepse" target="_blank">
@@ -8,11 +8,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
+##
 
 <table><tr><td valign="top" width="50%">
 
-
-### Glad to see you here!  
 I’m a Junior Software Developer striving to build user-friendly products written in readable, well-structured and maintainable code. I enjoy improving systems, solving problems and bringing aesthetically pleasing designs to life.  
   
 
@@ -23,10 +22,13 @@ I’m a Junior Software Developer striving to build user-friendly products writt
 - ⚡ Fun fact: I take care of five houseplants including a ficus, aglaonema and an aptly named UFO plant  😄
 
 </td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noepse&hide_border=true&layout=compact&theme=transparent" align="center" width="100%" /></div>  
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noepse&hide_border=true&layout=compact&theme=transparent" align="center" width="100%" /></div>  
 
 </td></tr></table>  
+
+##
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
