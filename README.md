@@ -17,8 +17,6 @@ I’m a Junior Software Developer striving to build user-friendly products writt
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
 🌱  I’m currently developing [Artsie API](https://github.com/noepse/artsie-api) to learn C# and .NET Core  
   
 
@@ -27,19 +25,9 @@ I’m a Junior Software Developer striving to build user-friendly products writt
 
 ⚡ Fun fact: I take care of five houseplants including a ficus, aglaonema and an aptly named UFO plant  😄  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlzcG9pazZhejN3dW40YzdpYTJ3bXY3eGxlcDRuOW9rbW00bGdpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NbhiwA0C8THIv8KvG5/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noepse&hide_border=true&layout=compact&theme=transparent" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noepse&hide_border=true&layout=compact&theme=transparent" align="center" width="60%" /></div>  
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
