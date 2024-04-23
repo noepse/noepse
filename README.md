@@ -15,7 +15,7 @@
 I’m a Junior Software Developer striving to build user-friendly products written in readable, well-structured and maintainable code. I enjoy improving systems, solving problems and bringing aesthetically pleasing designs to life.  
   
 
-- 🌱  I’m currently developing [Artsie API](https://github.com/noepse/artsie-api) to learn C# and .NET Core  
+- 🌱  I’m currently developing [Artsie API](https://github.com/noepse/artsie-api-controllers) to learn C# and .NET Core  
   
 - 🔭 I'm looking for hybrid or remote work around the UK - feel free to [get in touch!](https://www.linkedin.com/in/simran-amin/)  
   
