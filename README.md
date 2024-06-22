@@ -17,8 +17,6 @@ I’m a Junior Software Developer striving to build user-friendly products writt
 
 - 🌱  I’m currently developing [Artsie API](https://github.com/noepse/artsie-api-controllers) to learn C# and .NET Core  
   
-- 🔭 I'm looking for hybrid or remote work around the UK - feel free to [get in touch!](https://www.linkedin.com/in/simran-amin/)  
-  
 - ⚡ Fun fact: I take care of five houseplants including a ficus, aglaonema and an aptly named UFO plant  😄
 
 </td><td valign="top" width="50%">
